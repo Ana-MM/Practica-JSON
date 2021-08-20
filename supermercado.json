@@ -1,0 +1,432 @@
+  {
+  "nombreSupermercado":"COVIRAN",
+  "direccion":"C/ Manuel Mañas, 8, 04270, Sorbas, Almería",
+  "geolocalización":[
+    "37º6'3.383 N",
+    "2º7'44.619 O"
+   ],
+  "secciones":[
+    {
+      "seccion": "Panadería",
+      "personal": 2,
+      "coste": 2500,
+      "productos": [
+        {
+          "nombre": "barra gallega",
+          "stock":158,
+          "unidadesDeMedida":"unidades",
+          "pvp": 0.80,
+          "oferta": true,
+          "vigenciaOferta": "10/04/2021 - 20/04/2021",
+          "habitual":true
+        },
+        {
+          "nombre": "baguette",
+          "stock":169,
+          "unidadesDeMedida":"unidades",
+          "pvp": 0.60,
+          "oferta": false,
+          "vigenciaOferta": null,
+          "habitual":false
+        },
+        {
+          "nombre": "magdalenas",
+          "stock":42,
+          "unidadesDeMedida":"paquete",
+          "pvp": 1.20,
+          "oferta": false,
+          "vigenciaOferta": null,
+          "habitual":false
+        }
+      ]
+    },
+    {
+      "seccion": "Frutería",
+      "personal": 3,
+      "coste": 3900,
+      "productos": [
+        {
+          "nombre": "fresa",
+          "stock":15,
+          "unidadesDeMedida":"kg",
+          "pvp": 4.50,
+          "oferta": false,
+          "vigenciaOferta": null,
+          "habitual":true
+        },
+        {
+          "nombre": "naranja",
+          "stock":58,
+          "unidadesDeMedida":"kg",
+          "pvp": 0.85,
+          "oferta": true,
+          "vigenciaOferta": "01/04/2021 - 30/04/2021",
+          "habitual":true
+        },
+        {
+          "nombre": "manzana",
+          "stock":35,
+          "unidadesDeMedida":"kg",
+          "pvp": 2.00,
+          "oferta": false,
+          "vigenciaOferta": null,
+          "habitual":false
+        }
+      ]
+    },
+    {
+      "seccion": "Pescadería",
+      "personal": 2,
+      "coste": 2500,
+      "productos": [
+        {
+          "nombre": "calamar",
+          "stock":25,
+          "unidadesDeMedida":"kg",
+          "pvp": 9.50,
+          "oferta": false,
+          "vigenciaOferta": null,
+          "habitual":true
+        },
+        {
+          "nombre": "dorada",
+          "stock":40,
+          "unidadesDeMedida":"kg",
+          "pvp": 18.99,
+          "oferta": true,
+          "vigenciaOferta": "15/04/2021 - 20/04/2021",
+          "habitual":true
+        },
+        {
+          "nombre": "salmón",
+          "stock":30,
+          "unidadesDeMedida":"kg",
+          "pvp": 25.00,
+          "oferta": true,
+          "vigenciaOferta": "13/04/2021 - 18/04/2021",
+          "habitual":false
+        }
+      ]
+    },
+    {
+      "seccion": "Carnicería",
+      "personal": 1,
+      "coste": 1500,
+      "productos": [
+        {
+          "nombre": "pollo",
+          "stock":30,
+          "unidadesDeMedida":"kg",
+          "pvp": 6.10,
+          "oferta": true,
+          "vigenciaOferta": "14/04/2021 - 21/04/2021",
+          "habitual":true
+        },
+        {
+          "nombre": "cerdo",
+          "stock":150,
+          "unidadesDeMedida":"kg",
+          "pvp": 8.20,
+          "oferta": false,
+          "vigenciaOferta": null,
+          "habitual":true
+        },
+        {
+          "nombre": "ternera",
+          "stock":70,
+          "unidadesDeMedida":"kg",
+          "pvp": 19.50,
+          "oferta": true,
+          "vigenciaOferta": null,
+          "habitual":false
+        }
+      ]
+    }
+  ]
+},
+  {
+    "nombreSupermercado": "SUPREMO",
+    "direccion": "S/N, Urbanización San Javier,04270, Sorbas, Almería",
+    "geolocalización": ["37º5'24.36 N", "2º7'38.64 O"],
+    "secciones": [
+      {
+        "seccion": "Panadería",
+        "personal": 2,
+        "coste": 2200,
+        "productos": [
+          {
+            "nombre": "barra gallega",
+            "stock": 90,
+            "unidadesDeMedida": "unidades",
+            "pvp": 0.9,
+            "oferta": true,
+            "vigenciaOferta": "15/04/2021 - 20/04/2021",
+            "habitual": false
+          },
+          {
+            "nombre": "baguette",
+            "stock": 70,
+            "unidadesDeMedida": "unidades",
+            "pvp": 0.7,
+            "oferta": true,
+            "vigenciaOferta": "13/04/2021 - 18/04/2021",
+            "habitual": true
+          },
+          {
+            "nombre": "magdalenas",
+            "stock": 30,
+            "unidadesDeMedida": "unidades",
+            "pvp": 1.1,
+            "oferta": false,
+            "vigenciaOferta": null,
+            "habitual": false
+          }
+        ]
+      },
+      {
+        "seccion": "Frutería",
+        "personal": 3,
+        "coste": 3600,
+        "productos": [
+          {
+            "nombre": "fresa",
+            "stock": 20,
+            "unidadesDeMedida": "kg",
+            "pvp": 4.9,
+            "oferta": false,
+            "vigenciaOferta": null,
+            "habitual": true
+          },
+          {
+            "nombre": "naranja",
+            "stock": 60,
+            "unidadesDeMedida": "kg",
+            "pvp": 0.7,
+            "oferta": true,
+            "vigenciaOferta": "10/04/2021 - 20/04/2021",
+            "habitual": false
+          },
+          {
+            "nombre": "manzana",
+            "stock": 40,
+            "unidadesDeMedida": "kg",
+            "pvp": 1.9,
+            "oferta": true,
+            "vigenciaOferta": "13/04/2021 - 18/04/2021",
+            "habitual": false
+          }
+        ]
+      },
+      {
+        "seccion": "Pescadería",
+        "personal": 3,
+        "coste": 3750,
+        "productos": [
+          {
+            "nombre": "calamar",
+            "stock": 35,
+            "unidadesDeMedida": "kg",
+            "pvp": 11.5,
+            "oferta": false,
+            "vigenciaOferta": null,
+            "habitual": false
+          },
+          {
+            "nombre": "dorada",
+            "stock": 30,
+            "unidadesDeMedida": "kg",
+            "pvp": 16.95,
+            "oferta": true,
+            "vigenciaOferta": "18/04/2021 - 24/04/2021",
+            "habitual": true
+          },
+          {
+            "nombre": "salmón",
+            "stock": 25,
+            "unidadesDeMedida": "kg",
+            "pvp": 24.0,
+            "oferta": true,
+            "vigenciaOferta": "15/04/2021 - 20/04/2021",
+            "habitual": false
+          }
+        ]
+      },
+      {
+        "seccion": "Carnicería",
+        "personal": 2,
+        "coste": 3100,
+        "productos": [
+          {
+            "nombre": "pollo",
+            "stock": 55,
+            "unidadesDeMedida": "kg",
+            "pvp": 6.59,
+            "oferta": true,
+            "vigenciaOferta": "16/04/2021 - 21/04/2021",
+            "habitual": false
+          },
+          {
+            "nombre": "cerdo",
+            "stock": 85,
+            "unidadesDeMedida": "kg",
+            "pvp": 7.9,
+            "oferta": true,
+            "vigenciaOferta": "11/04/2021 - 19/04/2021",
+            "habitual": true
+          },
+          {
+            "nombre": "ternera",
+            "stock": 90,
+            "unidadesDeMedida": "kg",
+            "pvp": 18.55,
+            "oferta": false,
+            "vigenciaOferta": null,
+            "habitual": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "nombreSupermercado": "DIA",
+    "direccion": "C/ Alcalá, 16, 04270, Sorbas, Almería",
+    "geolocalización": ["37º5'55.572 N", "2º7'37.161 O"],
+    "secciones": [
+      {
+        "seccion": "Panadería",
+        "personal": 4,
+        "coste": 5000,
+        "productos": [
+          {
+            "nombre": "barra gallega",
+            "stock": 100,
+            "unidadesDeMedida": "unidades",
+            "pvp": 1.0,
+            "oferta": true,
+            "vigenciaOferta": "10/04/2021 - 20/04/2021",
+            "habitual": false
+          },
+          {
+            "nombre": "baguette",
+            "stock": 80,
+            "unidadesDeMedida": "unidades",
+            "pvp": 0.9,
+            "oferta": false,
+            "vigenciaOferta": null,
+            "habitual": false
+          },
+          {
+            "nombre": "magdalenas",
+            "stock": 35,
+            "unidadesDeMedida": "unidades",
+            "pvp": 1.5,
+            "oferta": false,
+            "vigenciaOferta": null,
+            "habitual": true
+          }
+        ]
+      },
+      {
+        "seccion": "Frutería",
+        "personal": 5,
+        "coste": 6000,
+        "productos": [
+          {
+            "nombre": "fresa",
+            "stock": 25,
+            "unidadesDeMedida": "kg",
+            "pvp": 4.4,
+            "oferta": false,
+            "vigenciaOferta": null,
+            "habitual": false
+          },
+          {
+            "nombre": "naranja",
+            "stock": 70,
+            "unidadesDeMedida": "kg",
+            "pvp": 0.9,
+            "oferta": true,
+            "vigenciaOferta": "21/04/2021 - 30/04/2021",
+            "habitual": false
+          },
+          {
+            "nombre": "manzana",
+            "stock": 50,
+            "unidadesDeMedida": "kg",
+            "pvp": 2.0,
+            "oferta": false,
+            "vigenciaOferta": null,
+            "habitual": true
+          }
+        ]
+      },
+      {
+        "seccion": "Pescadería",
+        "personal": 5,
+        "coste": 7500,
+        "productos": [
+          {
+            "nombre": "calamar",
+            "stock": 30,
+            "unidadesDeMedida": "kg",
+            "pvp": 9.9,
+            "oferta": false,
+            "vigenciaOferta": null,
+            "habitual": true
+          },
+          {
+            "nombre": "dorada",
+            "stock": 50,
+            "unidadesDeMedida": "kg",
+            "pvp": 19.9,
+            "oferta": true,
+            "vigenciaOferta": "18/04/2021 - 25/04/2021",
+            "habitual": false
+          },
+          {
+            "nombre": "salmón",
+            "stock": 35,
+            "unidadesDeMedida": "kg",
+            "pvp": 25.0,
+            "oferta": true,
+            "vigenciaOferta": "18/04/2021 - 26/04/2021",
+            "habitual": true
+          }
+        ]
+      },
+      {
+        "seccion": "Carnicería",
+        "personal": 6,
+        "coste": 9000,
+        "productos": [
+          {
+            "nombre": "pollo",
+            "stock": 70,
+            "unidadesDeMedida": "kg",
+            "pvp": 5.0,
+            "oferta": true,
+            "vigenciaOferta": "18/04/2021 - 28/04/2021",
+            "habitual": true
+          },
+          {
+            "nombre": "cerdo",
+            "stock": 125,
+            "unidadesDeMedida": "kg",
+            "pvp": 8.9,
+            "oferta": false,
+            "vigenciaOferta": null,
+            "habitual": false
+          },
+          {
+            "nombre": "ternera",
+            "stock": 100,
+            "unidadesDeMedida": "kg",
+            "pvp": 19.9,
+            "oferta": false,
+            "vigenciaOferta": null,
+            "habitual": true
+          }
+      ]
+    }
+  ]
+}

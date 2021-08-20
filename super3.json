@@ -1,0 +1,146 @@
+{
+  "nombreSupermercado":"DIA",
+  "direccion":"C/ Alcalá, 16, 04270, Sorbas, Almería",
+  "geolocalización":[
+    "37º5'55.572 N",
+    "2º7'37.161 O"
+   ],
+   "secciones":[
+     {
+      "seccion": "Panadería",
+      "personal": 4,
+      "coste": 5000,
+      "productos": [
+        {
+          "nombre": "barra gallega",
+          "stock":100,
+          "unidadesDeMedida":"unidades",
+          "pvp": 1.00,
+          "oferta": true,
+          "vigenciaOferta": "10/04/2021 - 20/04/2021",
+          "habitual": false
+        },
+        {
+          "nombre": "baguette",
+          "stock":80,
+          "unidadesDeMedida":"unidades",
+          "pvp": 0.90,
+          "oferta": false,
+          "vigenciaOferta": null,
+          "habitual": false
+        },
+        {
+          "nombre": "magdalenas",
+          "stock":35,
+          "unidadesDeMedida":"unidades",
+          "pvp": 1.50,
+          "oferta": false,
+          "vigenciaOferta": null,
+          "habitual": true
+        }
+      ]
+    },
+    {
+      "seccion": "Frutería",
+      "personal": 5,
+      "coste": 6000,
+      "productos": [
+        {
+          "nombre": "fresa",
+          "stock":25,
+          "unidadesDeMedida":"kg",
+          "pvp": 4.40,
+          "oferta": false,
+          "vigenciaOferta": null,
+          "habitual": false
+        },
+        {
+          "nombre": "naranja",
+          "stock":70,
+          "unidadesDeMedida":"kg",
+          "pvp": 0.90,
+          "oferta": true,
+          "vigenciaOferta": "21/04/2021 - 30/04/2021",
+          "habitual": false
+        },
+        {
+          "nombre": "manzana",
+          "stock":50,
+          "unidadesDeMedida":"kg",
+          "pvp": 2.00,
+          "oferta": false,
+          "vigenciaOferta": null,
+          "habitual": true
+        }
+      ]
+    },
+    {
+      "seccion": "Pescadería",
+      "personal": 5,
+      "coste": 7500,
+      "productos":[
+        {
+          "nombre": "calamar",
+          "stock":30,
+          "unidadesDeMedida":"kg",
+          "pvp": 9.90,
+          "oferta": false,
+          "vigenciaOferta": null,
+          "habitual":true
+        },
+        {
+          "nombre": "dorada",
+          "stock":50,
+          "unidadesDeMedida":"kg",
+          "pvp": 19.90,
+          "oferta": true,
+          "vigenciaOferta": "18/04/2021 - 25/04/2021",
+          "habitual":false
+        },
+        {
+          "nombre": "salmón",
+          "stock":35,
+          "unidadesDeMedida":"kg",
+          "pvp": 25.00,
+          "oferta": true,
+          "vigenciaOferta": "18/04/2021 - 26/04/2021",
+          "habitual":true
+        }
+      ]
+    },
+    {
+      "seccion": "Carnicería",
+      "personal": 6,
+      "coste": 9000,
+      "productos": [
+        {
+          "nombre": "pollo",
+          "stock":70,
+          "unidadesDeMedida":"kg",
+          "pvp": 5.00,
+          "oferta": true,
+          "vigenciaOferta": "18/04/2021 - 28/04/2021",
+          "habitual":true
+        },
+        {
+          "nombre": "cerdo",
+          "stock":125,
+          "unidadesDeMedida":"kg",
+          "pvp": 8.90,
+          "oferta": false,
+          "vigenciaOferta": null,
+          "habitual":false
+        },
+        {
+          "nombre": "ternera",
+          "stock":100,
+          "unidadesDeMedida":"kg",
+          "pvp": 19.90,
+          "oferta": false,
+          "vigenciaOferta": null,
+          "habitual":true
+        }
+      ]
+    }
+  ]
+}
